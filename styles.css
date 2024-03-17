@@ -1,0 +1,83 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: lightgray;
+}
+
+#image-div {
+    background-color: white;
+    margin-left: 15%;
+    height: 600px;
+    margin-right: 15%;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 2rem;    
+}
+
+img {
+    padding: 20px 20px;
+    max-width: 100%;
+    display: block;
+    height: 500px;
+    margin: auto auto;
+}
+
+p {
+    text-align: center;
+}
+
+#Header {
+    text-align: center;
+    font-size: 2rem;
+}
+
+#Add {
+    text-align: center;
+}
+
+#Sub {
+    text-align: center;
+}
+
+#Wanako {
+    text-align: center;
+}
+
+#secondPic {
+    background-color: white;
+    margin-left: 15%;
+    height: 600px;
+    margin-right: 15%;    
+}
+
+#fblogo {
+    height: 50px;
+}
+
+#tiktok {
+    height: 50px;
+    display: flex;
+}
+
+#text {
+    text-align: center;
+}
+
+#text2 {
+    text-align: center;
+}
+
+fieldset {
+    height: fit-content;
+    width: fit-content;
+    margin: 0 41%;
+}
+
+legend {
+    text-align: center;
+}
